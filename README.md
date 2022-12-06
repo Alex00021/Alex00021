@@ -1,4 +1,4 @@
-<p align="center">Hey 👋, I'm `Alex00021 Ling!`</p>
+**<p align="center">Hey 👋, I'm Alex00021 Ling!</p>**
 
 
 
