@@ -19,6 +19,7 @@
 If you want to learn all of these? so, what are you waiting for? Follow me.
 
 ### Connect with me:
+AlexLingfan@163.com
 
 ### Github Stats:
 ![Alex00021's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex00021&show_icons=true&theme=tokyonight)
