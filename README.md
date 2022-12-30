@@ -18,12 +18,11 @@
 <br>Hope you liked what I am doing and sharing it with all of you. Furthermore, there is a lot more topic besides Flutter I could think of, like Web Development, and Desktop Development. Thanks. Stay safe and take care.
 If you want to learn all of these? so, what are you waiting for? Follow me.
 
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only) 
+### Connect with me:
 
+### Github Stats:
+![Alex00021's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex00021&show_icons=true&theme=tokyonight)
 
-![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=all-smile&show_icons=true&theme=tokyonight)
-
-![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact&theme=tokyonight)
+### Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex00021&layout=compact&theme=tokyonight)
 
